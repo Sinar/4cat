@@ -18,3 +18,10 @@ This version can support the collection of data from these sources:
 - Pinterest
 - RedNote/Xiaohongshu
 - RedNote (comments)
+
+## Examples of datasets collected
+https://drive.google.com/drive/folders/1tFbL4aq7YG4ByzRSOjOBokbMYAXOcP_d?usp=drive_link 
+
+## Other resources
+https://slides.degeling.com/tiktok-research-methods/
+
