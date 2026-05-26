@@ -28,9 +28,9 @@ This version can support the collection of data from these sources:
 - Login credentials to https://try4cat.sinarproject.org/
 
 **Steps**
-1. When you get the login token link, open the URL in your browser and reset your password. Then log in using the password you set.
+1. When you get the login token link, open the URL in your Firefox browser and reset your password. Then log in using the password you set.
    
-2. In the browser, navigate to the menu (3-line button at the top right, underneath the X button) and go to Extensions and Themes.
+2. Then, in the same browser, navigate to the menu (3-line button at the top right, underneath the X button) and go to Extensions and Themes.
 
 <img width="426" height="1017" alt="Screenshot from 2026-05-26 13-31-07" src="https://github.com/user-attachments/assets/78923cec-5d98-4fb3-9bbc-f094a5e45832" />
 
