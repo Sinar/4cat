@@ -24,20 +24,25 @@ This version can support the collection of data from these sources:
 **What you will need:**
 - Firefox browser https://www.firefox.com/en-US/
 - Social media account from one of the sources above (logged in where you can see the posts in the browser)
-- Firefox plugin https://tools.digitalmethods.net/zeeschuimer (just click on the link and it will be downloaded to your computer)
+- Downloaded Firefox extension https://tools.digitalmethods.net/zeeschuimer (just click on the link and it will be downloaded to your computer)
 - Login credentials to https://try4cat.sinarproject.org/
 
 **Steps**
-1. When you get the login token link, open the URL in your Firefox browser and reset your password. Then log in using the password you set.
+1. Make sure that you have all the items above ready before you start. When you get the login token link, open the URL in your Firefox browser and reset your password. Then log in using the password you set.
    
 2. Then, in the same browser, navigate to the menu (3-line button at the top right, underneath the X button) and go to Extensions and Themes.
 
 <img width="426" height="1017" alt="Screenshot from 2026-05-26 13-31-07" src="https://github.com/user-attachments/assets/78923cec-5d98-4fb3-9bbc-f094a5e45832" />
 
 
-3. Go to the Extensions menu (choose the Puzzle symbol from one of the options on the left)
+3. Go to the Extensions menu (choose the Puzzle symbol from one of the options on the left). 
 
 <img width="861" height="322" alt="image" src="https://github.com/user-attachments/assets/ae0e20e9-545d-43f1-b6b5-258cfc662995" />
+
+In some cases (see image below), Firefox may have installed the extension automatically for you after download (choose Continue to Installation), so if you see the `zeeschuimer` extension here, you may skip to Step 9.
+
+<img width="584" height="296" alt="image" src="https://github.com/user-attachments/assets/8d17044d-ddbb-427a-a00d-f3601bc17dea" />
+
 
 4. From the Settings button choose "Install Add-on from File"
 
@@ -56,14 +61,14 @@ This version can support the collection of data from these sources:
 
 8. In browser header, add a new tab and open your social media website. Here we use TikTok (https://www.tiktok.com/), which is possible to crawl data without any login.
 
-9. In another tab, click the new "Z" button in your browser. This will open the Zeeschuimer plugin.
+9. In another tab, click the new "Z" button in your browser toolbar. This will open the Zeeschuimer extension. If you do not see the "Z" button click on the Puzzle button on the toolbar and click on the extension. 
 <img width="202" height="55" alt="image" src="https://github.com/user-attachments/assets/eebe1383-51c9-43a5-80ff-caf3f6ba66e2" />
 
-10. Turn on Active for TikTok (posts) and input the 4CAT server URL here i.e. https://try4cat.sinarproject.org/ (make sure you have logged in here)
+10. Turn on Active for TikTok (posts) and paste the 4CAT server URL under "Connect to 4CAT - 4CAT server URL:" https://try4cat.sinarproject.org/ (make sure you are still logged in on the Try4CAT website)
 
 <img width="819" height="964" alt="image" src="https://github.com/user-attachments/assets/747625b0-6338-43b8-99ef-d9f1f6a4f488" />
 
-11. Now that the plugin is enabled, it will start crawling data. Go back to the tab with TikTok and start scrolling down. As you scroll the plugin will collect data.
+11. Now that the extension is enabled, it will start crawling data. Go back to the tab with TikTok and start scrolling down. As you scroll the extension will collect data.
   
 12. After a few posts, notice that the "Items" in the Zeeschuimer tab had increased from 0, showing that there is data. Under Actions, click "to 4CAT" to upload the data to 4CAT.
 <img width="819" height="964" alt="image" src="https://github.com/user-attachments/assets/aa0ed1f4-8e8e-49f2-bcbd-21598854b107" />
@@ -71,6 +76,11 @@ This version can support the collection of data from these sources:
 13. Go back to the 4CAT tab and navigate to "Datasets". You will now have a CSV dataset from TikTok! 
 
 <img width="825" height="648" alt="image" src="https://github.com/user-attachments/assets/8e3fdf63-6e6f-412f-b15a-7fd34cea0f54" />
+
+14. Once you are done, rememeber to disable the extension as it will continue to run whenever you have your social media website up
+
+
+
 
 ## Examples of datasets collected
 https://drive.google.com/drive/folders/1tFbL4aq7YG4ByzRSOjOBokbMYAXOcP_d?usp=drive_link 
