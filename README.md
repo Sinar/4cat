@@ -28,33 +28,35 @@ This version can support the collection of data from these sources:
 - Login credentials to https://try4cat.sinarproject.org/
 
 **Steps**
-1. In the browser, navigate to the menu (3-line button at the top right, underneath the X button) and go to Extensions and Themes.
+1. When you get the login token link, open the URL in your browser and reset your password. Then log in using the password you set.
+   
+2. In the browser, navigate to the menu (3-line button at the top right, underneath the X button) and go to Extensions and Themes.
 
 <img width="426" height="1017" alt="Screenshot from 2026-05-26 13-31-07" src="https://github.com/user-attachments/assets/78923cec-5d98-4fb3-9bbc-f094a5e45832" />
 
 
-2. Go to the Extensions menu (choose the Puzzle symbol from one of the options on the left)
+3. Go to the Extensions menu (choose the Puzzle symbol from one of the options on the left)
 
 <img width="861" height="322" alt="image" src="https://github.com/user-attachments/assets/ae0e20e9-545d-43f1-b6b5-258cfc662995" />
 
-3. From the Settings button choose "Install Add-on from File"
+4. From the Settings button choose "Install Add-on from File"
 
 <img width="861" height="322" alt="image" src="https://github.com/user-attachments/assets/6782af9f-b0e2-498e-9c54-8433ad9d3a65" />
 
 
-4. On the window popped out, navigate to your Downloads folder and look for the file "zeeschuimer-1.13.6.xpi"
+5. On the window popped out, navigate to your Downloads folder and look for the file "zeeschuimer-1.13.6.xpi"
 
-5. A window will pop up on your Firefox browser like this. Click "Add"
+6. A window will pop up on your Firefox browser like this. Click "Add"
 
 <img width="595" height="378" alt="image" src="https://github.com/user-attachments/assets/3dbe468b-e173-413b-b5a0-8302bcc89e30" />
 
-6. Check "Pin extension to toolbar" and click OK
+7. Check "Pin extension to toolbar" and click OK
 
 <img width="603" height="204" alt="image" src="https://github.com/user-attachments/assets/2bb27dda-3092-4ccf-9cbd-222b0e0c811f" />
 
-7. In browser header, add a new tab and open your social media website. Here we use TikTok (https://www.tiktok.com/), which is possible to crawl data without any login.
+8. In browser header, add a new tab and open your social media website. Here we use TikTok (https://www.tiktok.com/), which is possible to crawl data without any login.
 
-8. In another tab, click the new "Z" button in your browser. This will open the Zeeschuimer plugin.
+9. In another tab, click the new "Z" button in your browser. This will open the Zeeschuimer plugin.
 <img width="202" height="55" alt="image" src="https://github.com/user-attachments/assets/eebe1383-51c9-43a5-80ff-caf3f6ba66e2" />
 
 10. Turn on Active for TikTok (posts) and input the 4CAT server URL here i.e. https://try4cat.sinarproject.org/ (make sure you have logged in here)
