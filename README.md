@@ -79,6 +79,7 @@ In some cases (see image below), Firefox may have installed the extension automa
 
 14. Once you are done, rememeber to disable the extension as it will continue to run whenever you have your social media website up
 
+<img width="855" height="274" alt="image" src="https://github.com/user-attachments/assets/0ba391d4-64a1-4541-98e5-de7faa0bff61" />
 
 
 
