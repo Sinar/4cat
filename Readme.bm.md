@@ -1,5 +1,5 @@
 # 4cat
-Pelayan awam Sinar Project untuk mencuba [4cat](https://github.com/digitalmethodsinitiative/4cat), alat penyelidikan untuk mengumpul serta menganalisa data media sosial, kini tersedia untuk digunakan secara terhad. Jika berminat, sila e-mel team@sinarproject.org untuk ditambah sebagai pengguna di pelayan ini.
+Pelayan awam Sinar Project untuk mencuba [4cat](https://github.com/digitalmethodsinitiative/4cat), alat penyelidikan untuk mengumpul serta menganalisa data media sosial, disediakan dengan penggunaan terhad. Jika berminat, sila e-mel team@sinarproject.org untuk ditambah sebagai pengguna di pelayan ini.
 
 Alat ini perlu digunakan bersama-sama dengan https://tools.digitalmethods.net/zeeschuimer, yang hanya tersedia sebagai pemalam (plugin) pelayar Firefox.
 
